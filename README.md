@@ -1,4 +1,4 @@
-# Duet-3-Toolboard-1lC
+# Duet-3-Toolboard-1LC
 Hardware information for the Duet 3 Toolboard 1LC. This is a CAN-FD connected expansion board for the [Duet 3 Mainboard](https://www.duet3d.com/Duet3Mainboard6HC) that is designed to provide complete control for a direct drive extruder. 
 
 ![Image of Duet 3 Toolboard 1LC](https://d17kynu4zpq5hy.cloudfront.net/igi/duet3d/IcXkLrrgdCBmSFnX.medium)
